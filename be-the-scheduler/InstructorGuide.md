@@ -18,7 +18,7 @@ Place the node pieces on the game board. You'll want enough of a gap between nod
 
 ## Student Preparation
 
-Students should be introduced to the concept of a job scheduler and the different types of jobs used in the game. The game can be made easier or simpler by using fewer job types. The should know the difference between a node, a core, and a cluster. This game was created with current and future users of an HPC system in mind, but could be played as a demonstration to a broader audience with more help from instructors.x
+Students should be introduced to the concept of a job scheduler and the different types of jobs used in the game. The game can be made easier or simpler by using fewer job types. The should know the difference between a node, a core, and a cluster. This game was created with current and future users of an HPC system in mind, but could be played as a demonstration to a broader audience with more help from instructors.
 
 ## Game Play
 
