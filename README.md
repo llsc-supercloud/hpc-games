@@ -4,7 +4,7 @@ This repository contains a number of games that we have used to help build intui
 
 ## Be the Scheduler
 
-The Be the Sechduler game was created to answer the question "Why isn't my job running?". This game simulates the operation of an HPC Scheduler, or resource manager. The cluster and jobs are made up of Lego pieces and a deck of cards are jobs that are submitted to the scheduler.
+The Be the Scheduler game was created to answer the question "Why isn't my job running?". This game simulates the operation of an HPC Scheduler, or resource manager. The cluster and jobs are made up of Lego pieces and a deck of cards are jobs that are submitted to the scheduler.
 
 ## Be the Processor
 
