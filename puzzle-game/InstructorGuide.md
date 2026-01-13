@@ -27,18 +27,20 @@ Game play consists of two rounds: one for shared memory, one for distributed.
 
 ### Shared Memory
 
-Break the students into groups of ~4 and have them each group work together to complete a puzzle for 10 mins.  Have each group time how long it takes to complete.
+Break the students into groups of 2, 4, 8, 16 (as able), each group at their own table. Put one 30 piece puzzle on each table. Instruct them to work together within their group to complete the puzzle and to raise their hand when complete. Once the students understand the task, start the timer and tell them to begin. Record the time as each group completes their puzzle. Draw a plot that shows the time it took for each size group.
+
 If using a more complicated puzzle, have everyone stop after 10 minutes and assess the level of “done-ness” to get an estimate of time to complete the puzzle, if not already completed.
 
 #### Shared Memory Questions/Discussion
 
 - Would the puzzle have been completed faster if you had fewer workers?
 - Would the puzzle have been completed faster if you had more workers?
+- What is the ideal number of workers for the 30 piece puzzle? What if the puzzle was smaller? Bigger?
 - What were the challenges?
 
 ### Distributed Memory
 
-Break students up roughly into pairs with 4 pairs for each puzzle. Give each pair of students a bag of pre-distributed puzzle pieces. Explain to the students that they should complete their portion of the puzzle, and then bring it to PID 0 for their distribution, who will join each part together. To transport the completed portions, gently slide them off the table onto cardboard or similar portable surface and walk to PID 0. Once the students understand the task, start the timer and tell them to begin. Note down the time when each puzzle is completed.
+Break students up roughly into pairs with 4 pairs for each puzzle. If possible, each pair should be at their own table. Give each pair of students a bag of pre-distributed puzzle pieces. Explain to the students that each pair should complete their own portion of the puzzle (no helping other groups), and then bring it to PID 0 for their distribution, who will join each part together. To transport the completed portions, gently slide them off the table onto cardboard or similar portable surface and walk to PID 0. Once the students understand the task, start the timer and tell them to begin. Note down the time when each puzzle is completed.
 
 The students will likely run into some challenges: some groups completing their portion slower than others, time spent gently carrying the completed portions, dropped pieces, etc. These are all teachable and correspond to challenges with running parallel programs on distributed systems. Living out these challenges is part of the exercise.
 
